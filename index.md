@@ -26,6 +26,10 @@ The project repository contains a scatter plot of GDP per capita and life expect
 
 *Figure 2. Life expectancy increased across the selected countries between 2000 and 2023, but the level and pace of improvement varied.*
 
+### Key limitation
+
+This portfolio shows an association between GDP per capita and life expectancy, not a causal effect. The analysis is also limited because country-level averages can hide important differences within countries.
+
 ### Project link and status
 
 - [Open the project repository](https://github.com/Lhei512/data-science-project)
